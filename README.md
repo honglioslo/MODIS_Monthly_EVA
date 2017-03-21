@@ -8,3 +8,12 @@ clean.sh: clean the files generated during the processes
 The data are stored as in YYYY/MM  
 
 Please visit: https://github.com/honglioslo/MODIS_Monthly_EVA
+
+Map that gives vertical and horizontal indexes to be used in the modis files:
+http://harvardforest.fas.harvard.edu/blog/modis-satellite-imagery-applied-phenological-assessment-team-bu
+
+Modis naming convetion for level 4 evapo… files:
+https://ladsweb.nascom.nasa.gov/api/v1/productPage/product=MOD16A2
+
+Data access and documentation:
+http://www.ntsg.umt.edu/project/mod16
